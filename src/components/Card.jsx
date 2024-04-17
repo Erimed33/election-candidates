@@ -1,19 +1,13 @@
 import React from 'react'
-import List from './components/List.jsx'
+import List from "./components/List"
+
 
 const Card = () => {
   
-// const personDetails = candidateNames.map(names=> 
-// return (
-//   <div>
-//   name= key:{candidateNames}
-//   </div>
-// )
+<div>
+<List/>
 
-//   return (
-//     <div>personDetails</div>
-  
-//   )
+</div>
 
 }
 
